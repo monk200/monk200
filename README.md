@@ -12,8 +12,26 @@ This GitHub is fairly new because the code I did during school wasn't organized 
 * I love rock climbing and have had the pleasure of teaching climbing clinics from Climbing 101 to Lead Certification
 * I was once ranked 2nd globally in the game <i>I Can't Believe It's Not Gambling</i> because I wrote a clicker and ran it for all of winter break
 
+## Languages and Tools
+<p float="left">
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+<p float="left">
+<img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+<img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
+<img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-purple?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+<img alt="Code Composer Studio" src="https://img.shields.io/badge/-Code%20Composer%20Studio-red?style=for-the-badge"/>
+</p>
+
 ## Coding Activity
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monk200&theme=jolly&layout=compact" height="200em" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monk200&theme=jolly" height="200em" />
+</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=monk200&theme=jolly&show_icons=true&hide=contribs,stars" height="160em" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monk200&theme=jolly" width="30%" />
-<img src="https://github-readme-stats.vercel.app/api?username=monk200&theme=jolly" width="50%" />
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monika-spytek-40abb21b5/)
