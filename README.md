@@ -29,8 +29,8 @@ This GitHub is fairly new because the code I did during school wasn't organized 
 
 ## Coding Activity
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monk200&theme=jolly&layout=compact" height="200em" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monk200&theme=jolly" height="200em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monk200&theme=jolly&layout=compact" height="160em" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monk200&theme=jolly" height="160em" />
 </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=monk200&theme=jolly&show_icons=true&hide=contribs,stars" height="160em" /></p>
 
