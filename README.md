@@ -32,6 +32,8 @@ This GitHub is fairly new because the code I did during school wasn't organized 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monk200&theme=jolly&layout=compact" height="160em" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=monk200&theme=jolly" height="160em" />
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=monk200&theme=jolly&show_icons=true&hide=contribs,stars" height="160em" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=monk200&theme=jolly&show_icons=true&hide=contribs,stars" height="160em" /></p>  
+
+Check out my [Segbot project](https://github.com/monk200/Segbot)! I designed and programmed a two-wheeled balancing robot from the ground-up, including tuning state feedback and PID control algorithms.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monika-spytek-40abb21b5/)
