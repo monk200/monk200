@@ -1,7 +1,7 @@
 ![github header small](https://user-images.githubusercontent.com/80641920/117477853-1b802b00-af24-11eb-8808-b063134f7cf0.jpg)
 
 # Hey, welcome to my GitHub 👋
-[<img align="right" height="350" src="https://github.com/monk200/Segbot/blob/main/Demo%20Picture.PNG">](https://github.com/monk200/Segbot)
+[<img align="right" height="320" src="https://github.com/monk200/Segbot/blob/main/Demo%20Picture.PNG">](https://github.com/monk200/Segbot)
 
 I recently graduated from the University of Illinois at Urbana-Champaign with a major in Systems Engineering and Design in the Industrial and Enterprise Systems Engineering college and a minor in Computer Science. I've always been interested in a variety of engineering disiplines and my degree allowed me to take courses in mechanical, electrical, and computer science topics. I used my diverse set of interests to focus in robotics and spent my last couple years of college doing some neat projects with microcontrollers, exploring how different environmental factors can affect computer vision, and learning control theory concepts.  
 
